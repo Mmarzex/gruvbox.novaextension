@@ -9,7 +9,7 @@ meta {
  * Window styles
  */
 meta.window {
-    background-color: "#282828";
+    background-color: #282828;
     border-color: hsba(0, 0%, 100%, 0.1);
 }
 meta.titlebar {
@@ -71,7 +71,7 @@ meta.document.button.highlighted {
 }
 
 meta.document.textfield {
-    background-color: "#282828";
+    background-color: #282828;
     border-color: hsb(210, 10%, 6%);
 }
 
@@ -110,77 +110,77 @@ meta.gutter.selected {
  */
 
 keyword {
-    color: "#fb4934";
+    color: #fb4934;
 }
 comment {
-    color: "#928374";
+    color: #928374;
 }
 processing {
-    color: "#fabd2f";
+    color: #fabd2f;
 }
 declaration {
-    color: "#fabd2f";
+    color: #fabd2f;
 }
 bracket {
-    color: "#fabd2f";
+    color: #d5c4a1;
 }
 operator {
-    color: "#fabd2f";
+    color: #8ec07c;
 }
 invalid {
-    background-color: "#fabd2f";
-    color: "#fabd2f";
+    background-color: #fabd2f;
+    color: #fabd2f;
 }
 link {
-    color: "#fabd2f");
+    color: #fabd2f;
 
 }
 
 /* Values */
 value.boolean {
-    color: hsb(210, 60%, 100%);
+    color: #b8bb26;
 }
 value.null {
-    color: hsb(210, 60%, 100%);
+    color: #fabd2f;
 }
 value.number {
-    color: '#b8bb26';
+    color: #b8bb26;
 }
 value.entity {
-    color: hsb(210, 60%, 100%);
+    color: #fabd2f;
 }
 value.symbol {
-    color: hsb(210, 60%, 100%);
+    color: #fabd2f;
 } 
 
 /* Identifiers */
 identifier.type {
-    color: "#fabd2f";
+    color: #fabd2f;
 }
 identifier.constant {
 }
 identifier.global, identifier.variable {
-    color: hsb(268, 34%, 100%);
+    color: #d5c4a1;
 }
 identifier.property,
 identifier.decorator,
 identifier.function,
 identifier.method {
-    color: hsb(166, 40%, 78%);
+    color: #689d6a;
 }
 identifier.key {
-    color: hsb(210, 60%, 100%);
+    color: #689d6a;
 }
 identifier.argument {
-    color: hsb(268, 34%, 100%);
+    color: #d5c4a1;
 }
 
 /* Strings */
 string {
-    color: "#b8bb26";
+    color: #b8bb26;
 }
 string.key {
-    color: "#b8bb26";
+    color: #b8bb26;
 }
 string-template {
     color: hsb(27, 60%, 100%);
@@ -231,14 +231,14 @@ definition.enum enum.name,
 definition.union union.name,
 definition.struct struct.name {
     font-weight: bold;
-    color: "#fabd2f";
+    color: #fabd2f;
 }
 
 /* Members */
 definition.property property.name,
 definition.function function.name,
 definition.method method.name {
-    color: "#fabd2f";
+    color: #fabd2f;
 }
 
 /* Tags */

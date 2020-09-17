@@ -1,8 +1,8 @@
 {
-    "identifier": "org.gruvbox",
+    "identifier": "io.marze.gruvbox",
     "name": "gruvbox",
-    "organization": "MyOrganization",
-    "description": "Lorem ipsum, dolor sit amet.",
+    "organization": "Marz",
+    "description": "Gruvbox theme",
     "version": "1.0",
     "categories": ["themes"]
 }
