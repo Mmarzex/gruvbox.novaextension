@@ -1,8 +1,10 @@
 {
-    "identifier": "io.marze.gruvbox",
+    "identifier": "marz.gruvbox",
     "name": "gruvbox",
-    "organization": "Marz",
+    "organization": "marz",
     "description": "Gruvbox theme",
     "version": "1.0",
-    "categories": ["themes"]
+    "categories": ["themes"],
+    "bugs": "https://github.com/Mmarzex/gruvbox.novaextension/issues",
+    "repository": "https://github.com/Mmarzex/gruvbox.novaextension"
 }
